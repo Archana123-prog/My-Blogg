@@ -85,7 +85,7 @@ Deployed on **Vercel**
 npm run build
 ```
 
-> Add your live link here 👇
+> My Blog live link here 👇
 > 👉 [https://my-blogg-ten.vercel.app/](https://my-blogg-ten.vercel.app/)
 
 ## 🎨 UI Highlights
