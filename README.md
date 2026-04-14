@@ -2,21 +2,24 @@
 # 🌌 My Blog — Interactive 3D Blog
 
 <p align="center">
-  🚀 <a href="https://your-live-link.vercel.app"><b>Live Demo</b></a>
+  🚀 <a href="https://my-blogg-ten.vercel.app/"><b>Live Demo</b></a>
 </p>
 
 > A visually stunning developer portfolio & blog powered by **React + Three.js**, featuring immersive 3D animations and a modern cyberpunk-inspired UI.
 
----
-
 ## ✨ Preview
 
-![Hero Section](./screenshots/hero.png)
-![About Section](./screenshots/about.png)
-![Projects Section](./screenshots/projects.png)
-![Contact Section](./screenshots/contact.png)
+![Hero Section] 
+<img width="1919" height="921" alt="Screenshot 2026-04-14 235234" src="https://github.com/user-attachments/assets/36d2afe9-ba46-4580-b9aa-fbe5a368ce2b" />
 
----
+![About Section]
+<img width="1919" height="918" alt="Screenshot 2026-04-14 235253" src="https://github.com/user-attachments/assets/1c36cb49-dc33-4190-81ed-e4bb3ca5d330" />
+
+![Projects Section]
+<img width="1919" height="925" alt="Screenshot 2026-04-14 235309" src="https://github.com/user-attachments/assets/1a63e8f1-65f0-48dd-a85a-640d5c969d93" />
+
+![Contact Section]
+<img width="1914" height="928" alt="Screenshot 2026-04-14 235330" src="https://github.com/user-attachments/assets/fc90f798-99d5-44d8-8f8b-f9a3a839994b" />
 
 ## 🎯 Features
 
@@ -27,16 +30,12 @@
 * Particle system with dynamic colors
 * Smooth camera parallax & scroll effects
 
----
-
 ### 🧠 Smart UI/UX
 
 * Clean modern layout with gradient typography
 * Smooth scroll navigation (Hero → About → Projects → Contact)
 * Fully responsive design
 * Micro-interactions & hover effects
-
----
 
 ### 🧩 Sections Included
 
@@ -45,16 +44,12 @@
 * 💼 **Projects Section** — Featured work with live + GitHub links
 * 📬 **Contact Section** — Functional contact form
 
----
-
 ### 🛠️ Tech Stack
 
 * ⚛️ React (Vite)
 * 🌌 Three.js (3D graphics)
 * 🎨 CSS (Custom animations & styling)
 * ⚡ JavaScript (Logic & interactions)
-
----
 
 ## 📂 Project Structure
 
@@ -65,8 +60,6 @@ src/
 │── main.jsx            # Entry point
 │── assets/             # Images & icons
 ```
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -84,8 +77,6 @@ npm install
 npm run dev
 ```
 
----
-
 ## 🚀 Deployment
 
 Deployed on **Vercel**
@@ -95,9 +86,7 @@ npm run build
 ```
 
 > Add your live link here 👇
-> 👉 [https://your-live-link.vercel.app](https://your-live-link.vercel.app)
-
----
+> 👉 [https://my-blogg-ten.vercel.app/](https://my-blogg-ten.vercel.app/)
 
 ## 🎨 UI Highlights
 
@@ -105,8 +94,6 @@ npm run build
 * ✨ Animated particles & floating shapes
 * 🎭 Glassmorphism + neon aesthetic
 * 🧊 Smooth transitions & parallax effects
-
----
 
 ## 🔮 Future Improvements
 
@@ -116,26 +103,18 @@ npm run build
 * 📊 Analytics dashboard
 * 🧠 AI-powered content suggestions
 
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome!
 Feel free to fork and improve the UI/UX or add new features.
 
----
-
 ## 📜 License
 
 MIT License
 
----
-
 ## 💻 Author
 
 Made with ⚡ by **Archana Kumari**
-
----
 
 ## ⭐ Support
 
@@ -145,34 +124,3 @@ If you like this project:
 * 🍴 Fork it
 * 🚀 Share it
 
----
-
-## 💡 Pro Tip (Important)
-
-👉 Create a folder:
-
-```
-/screenshots
-```
-
-Rename your images like:
-
-```
-hero.png
-about.png
-projects.png
-contact.png
-```
-
-Then your README will look 🔥 on GitHub.
-
----
-
-If you want next level upgrade 😎
-I can:
-
-* add **animated GIF preview**
-* add **cool badges (visitors, tech stack, stars)**
-* make it **top 1% GitHub README**
-
-Just say 👍
