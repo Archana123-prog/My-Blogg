@@ -1,4 +1,5 @@
-🚀 Dev Portfolio v2
+
+# 🚀 Dev Portfolio v2
 
 ✨ Where ideas come alive — A modern, interactive developer portfolio built with performance, animations, and clean UI in mind.
 
@@ -8,16 +9,16 @@
 
 📸 Preview
 
-# Home page
+### Home page
 <img width="1919" height="921" alt="Screenshot 2026-04-14 235234" src="https://github.com/user-attachments/assets/6be7c598-0b15-4a57-bc8a-13aaddc49a64" />
 
-# About page
+### About page
 <img width="1919" height="918" alt="Screenshot 2026-04-14 235253" src="https://github.com/user-attachments/assets/3fe43131-6eab-490d-9096-6ef09cf36ab7" />
 
-# Projct  page
+### Projct  page
 <img width="1919" height="925" alt="Screenshot 2026-04-14 235309" src="https://github.com/user-attachments/assets/2f7d28ff-e8f2-4b6e-b2bf-68f2c3958dab" />
 
-# Projct  page
+### Projct  page
 <img width="1914" height="928" alt="Screenshot 2026-04-14 235330" src="https://github.com/user-attachments/assets/9eea0a2b-3da7-4859-95e6-a1e2e6c087b8" />
 
 
